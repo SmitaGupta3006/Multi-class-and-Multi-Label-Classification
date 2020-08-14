@@ -5,3 +5,5 @@
 •	Trained an SVM for each of the labels, using Gaussian kernels and one versus all classifiers
 
 •	Determine the weight of the SVM penalty and the width of the Gaussian Kernel using cross validation 
+
+• Tools Used: Python, NumPy, Pandas, Sk-learn, Matplotlib, ImbLearn
